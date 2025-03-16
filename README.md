@@ -27,4 +27,4 @@ Once the app is running, you can access it through your web browser. The sidebar
 Enter the required values and visualize the results with interactive charts.
 
 ## Contributing
-Contributions are welcome! If you find a bug or want to add a new feature, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you find a bug or want to add a new feature, feel free to open an issue or submit a pull request..
